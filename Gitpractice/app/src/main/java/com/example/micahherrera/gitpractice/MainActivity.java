@@ -25,7 +25,7 @@ public class Car.java{
         }
 public class Main.java{
 public static void main
-
+System.out.println("WHAD UP WORLD!")
         }
 
 public class Garage.java{}
